@@ -1,2 +1,3 @@
 # Thermos
-Temperature Thermos
+Test Repo for Git Commands Demonstration
+
